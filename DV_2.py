@@ -1,5 +1,6 @@
 # Use the file name mbox-short.txt as the file name
-# Este programa realiza la validación del dígito verificador modulo 11
+# Este programa realiza la validación del dígito verificador modulo 11.
+#Prueba
 
 
 while True:
