@@ -1,8 +1,4 @@
 # Use the file name mbox-short.txt as the file name
-# Este programa realiza la validación del dígito verificador modulo 11.
-#Prueba
-
-
 while True:
     rut = input("Ingrese un rut valido: ")
     if rut=="salir":break
